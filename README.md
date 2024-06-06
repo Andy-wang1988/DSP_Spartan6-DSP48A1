@@ -1,0 +1,1 @@
+This is a mini projet, a design for the DSP block Spartan6-DSP48A1 using Verilog. I divided the design into 3 different stages written in three modules and connected them in the top module. A simple testbench is provided in the Top_module.v file.
